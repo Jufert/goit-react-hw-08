@@ -1,0 +1,13 @@
+.userList {
+  display: flex;
+  flex-wrap: wrap;
+}
+.userItem {
+  margin: 0;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+  width: 250px;
+}

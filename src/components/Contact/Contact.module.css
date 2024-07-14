@@ -1,0 +1,26 @@
+.userData {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+.userName {
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+.userPhone {
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+p {
+  margin: 5px;
+}
+.iconPerson {
+  padding-right: 5px;
+  color: #111;
+}
+.iconPhone {
+  padding-right: 5px;
+  color: #111;
+}
